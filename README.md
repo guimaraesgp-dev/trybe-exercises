@@ -1,4 +1,4 @@
-# Trybe - Exercícios
+=# Trybe - Exercícios
 
 Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/in/paulohbsimoes/)__ durante minha tragetória na [Trybe](https://www.betrybe.com/) :rocket:
 
@@ -214,15 +214,15 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 ## Ciência da Computação :hourglass_flowing_sand:
 
 ##### Bloco 33: Arquitetura de Computadores e Redes
-- [ ] 33.1 - Introdução - Ciência da Computação
+- [x] 33.1 - Introdução - Ciência da Computação
 - [ ] 33.2 - Arquitetura de Computadores
 - [ ] 33.3 - Arquitetura de redes
 - [ ] 33.4 - Redes de computadores, ferramentas e segurança
 - [ ] 33.5 - Projeto - Explorando os protocolos
 
 ##### Bloco 34: Introdução à Python e Raspagem de Dados da Web
-- [ ] 34.1 - Aprendendo Python
-- [ ] 34.2 - Entrada e Saída de dados
+- [x] 34.1 - Aprendendo Python
+- [x] 34.2 - Entrada e Saída de dados
 - [ ] 34.3 - Raspagem de Dados
 - [ ] 34.4 - Testes
 - [ ] 34.5 - Projeto - Tech news
@@ -234,19 +234,19 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [ ] 35.4 - Projeto - Relatórios de Estoque
 
 ##### Bloco 36: Algoritmos e Estrutura de Dados
-- [ ] 36.1 - Complexidade de Algoritmos
-- [ ] 36.2 - Recursividade e Estratégias para solução de problemas
-- [ ] 36.3 - Algoritmos de ordenação e busca
-- [ ] 36.4 - Projeto - Algoritmos
+- [x] 36.1 - Complexidade de Algoritmos
+- [x] 36.2 - Recursividade e Estratégias para solução de problemas
+- [x] 36.3 - Algoritmos de ordenação e busca
+- [x] 36.4 - Projeto - Algoritmos
 
 ##### Bloco 37: Estrutura de Dados: Hash e Set
-- [ ] 37.1 - Arrays
-- [ ] 37.2 - Hashmap e Dict
-- [ ] 37.3 - Set
-- [ ] 37.4 - Projeto - Restaurant Orders
+- [x] 37.1 - Arrays
+- [x] 37.2 - Hashmap e Dict
+- [x] 37.3 - Set
+- [x] 37.4 - Projeto - Restaurant Orders
 
 ##### Bloco 38: Estrutura de Dados: Pilhas, Filas e Listas
-- [ ] 38.1 - Nó e Listas Encadeadas
-- [ ] 38.2 - Deque
-- [ ] 38.3 - Pilhas
-- [ ] 38.4 - Projeto - TING - Trybe Is Not Google
+- [x] 38.1 - Nó e Listas Encadeadas
+- [x] 38.2 - Deque
+- [x] 38.3 - Pilhas
+- [x] 38.4 - Projeto - TING - Trybe Is Not Google
